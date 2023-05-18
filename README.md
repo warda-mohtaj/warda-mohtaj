@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour👋, je suis Warda Mohtaj</h1>
+<h1 align="center">Bonjour👋🏼, je suis Warda Mohtaj</h1>
 <h3 align="center">Une étudiante en développement web ! 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warda-mohtaj&label=Profile%20views&color=0e75b6&style=flat" alt="warda-mohtaj" /> </p>
